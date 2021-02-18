@@ -1,4 +1,4 @@
-package org.apache.cordova.firebase;
+package org.apache.cordova.firebases;
 
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
