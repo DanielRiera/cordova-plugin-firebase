@@ -1,17 +1,17 @@
 {
   "author": {
-    "name": "Robert Arnesson"
+    "name": "Daniel Riera"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "https://github.com/DanielRiera/cordova-plugin-firebases"
   },
-  "name": "cordova-plugin-firebase",
-  "version": "2.0.5",
+  "name": "cordova-plugin-firebases",
+  "version": "3.0.0",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "cordova-plugin-firebases",
     "platforms": [
       "android",
       "ios",

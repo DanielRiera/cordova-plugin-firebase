@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/arnesson/cordova-plugin-firebase.svg?branch=master)](https://travis-ci.org/arnesson/cordova-plugin-firebase)
+[![Build Status](https://travis-ci.org/arnesson/cordova-plugin-firebases.svg?branch=master)](https://travis-ci.org/arnesson/cordova-plugin-firebases)
 
-# cordova-plugin-firebase
+# cordova-plugin-firebases
 This plugin brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project!  Android and iOS supported.
 
 ## Supported Cordova Versions
@@ -11,11 +11,11 @@ This plugin brings push notifications, analytics, event tracking, crash reportin
 ## Installation
 Install the plugin by adding it to your project's config.xml:
 ```
-<plugin name="cordova-plugin-firebase" spec="^2.0.0" />
+<plugin name="cordova-plugin-firebases" spec="^2.0.0" />
 ```
 or by running:
 ```
-cordova plugin add cordova-plugin-firebase --save
+cordova plugin add cordova-plugin-firebases --save
 ```
 
 ### Guides
