@@ -9,13 +9,9 @@ This plugin brings push notifications, analytics, event tracking, crash reportin
 - cordova-ios: `>= 4`
 
 ## Installation
-Install the plugin by adding it to your project's config.xml:
+
 ```
-<plugin name="cordova-plugin-firebases" spec="^2.0.0" />
-```
-or by running:
-```
-cordova plugin add cordova-plugin-firebases --save
+cordova plugin add https://github.com/DanielRiera/cordova-plugin-firebases.git --save
 ```
 
 ### Guides
